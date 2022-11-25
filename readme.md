@@ -1,0 +1,1 @@
+projeto que pede sua nota em padrao escola brasileira e transfroema ela em padrão highscool USA (A, B, C, D, F)
